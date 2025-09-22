@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smallDiplodocus
 - 👀 I’m interested in art, reading, and writing. Along side code...Duh
-- 🌱 I’m currently learning javascript, html, and ccs 
+- 🌱 I’m currently learning java and c++
 - 📫 How to reach me: N/A
 - 😄 Pronouns: I use all pronouns!
 - ⚡ Fun fact: I have over 200 books in my home library
